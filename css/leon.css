@@ -377,6 +377,7 @@ body {
 
 .about .about-content .image img {
     max-width: 100%;
+    border-radius: 10%;
 }
 
 .about .about-content .image {
