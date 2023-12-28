@@ -287,11 +287,6 @@ body {
 .services .services-content .image {
     position: relative;
     text-align: center;
-    filter: opacity(85%);
-}
-
-.services .services-content .image:hover {
-    filter: opacity(100%);
 }
 
 .services .services-content .image::before {
@@ -307,6 +302,11 @@ body {
 
 .services .services-content .image img {
     width: 260px;
+    border-radius:5%;
+}
+.services .services-content .image img:hover{
+    border-radius: 20%;
+    scale: 1.04;
 }
 
 @media (max-width:1199px) {
@@ -336,10 +336,12 @@ body {
 
 .portfolio .portfolio-content .card img {
     max-width: 100%;
+    border-radius: 20%
 }
 
 .portfolio .portfolio-content .card img:hover {
-    transform: rotateZ(6deg);
+    scale: 1.04;
+    border-radius: 17%;
 }
 
 .portfolio .portfolio-content .card .info h3 {
