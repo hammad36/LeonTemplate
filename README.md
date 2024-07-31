@@ -3,7 +3,7 @@
 Welcome to Leon! We are your ultimate destination for all your needs, offering expert advice, top-notch products, and a vibrant community of enthusiasts. Explore our site and discover a world of possibilities waiting for you.
 
 ## Live Demo
-Check out our live site [here](https://hammad36.github.io/LeonTemplate/#services).
+Check out our live site [here](https://hammad36.github.io/LeonTemplate/).
 
 ## Features
 
